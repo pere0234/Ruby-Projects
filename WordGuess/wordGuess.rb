@@ -7,7 +7,7 @@ index = rand(4) #generates a random value from 0-3
 
 #provides instructions to the user
 print "Guess the word \n "
-print "Options: ball, phone, house, cat (two tries) \n"
+print "Options: ball, phone, house, cat \n"
 
 #While the user hasn't spent his turns, run loop
 i=2
